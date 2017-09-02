@@ -12,7 +12,7 @@ thing! https://github.com/PolymerLabs/tedium/issues
 
 -->
 
-[![Build status](https://travis-ci.org/PolymerElements/app-route.svg?branch=master)](https://travis-ci.org/PolymerElements/app-route)
+[![Build status](https://travis-ci.org/spezifanta/app-route.svg?branch=master)](https://travis-ci.org/spezifanta/app-route)
 
 
 ## &lt;app-route&gt;
